@@ -1,0 +1,33 @@
+Rules for Crazy Eights Card Game
+
+Objective:
+Be the first player to get rid of all cards in your hand.
+Multiple rounds are played and scores are kept. The player with the lowest total score when another player gets a total score of 100 points or more is the winner.
+
+Dealing cards:
+1. A standard 52 card deck gets Shuffled.
+2. 2 players can play.
+3. 7 cards are dealt to each player one at a time.
+4. The remaining deck is called the Draw Deck.
+5. The top card of the Draw Deck is placed face up to start the Discard Pile.
+6. 8 cannot be the first card to start the discard pile. If an 8 appears, the program will choose a location in the Draw Deck at random, will place the card there, and will choose the next card from the top.
+
+The Game:
+1. Cards with matching suit or matching number can be placed in the Discard Pile.
+2. The player is shown which cards he/she can play and must choose one of those cards.
+3. If a player does not have a card with the same suit or same number as the card in the Discard Pile, the player will choose up to 3 cards from the top of the Draw Deck. If none of the cards can be played, the player will lose the turn.
+4. If the player draws a card that can be played, the player must play that card.
+5. 8 is the wildcard and can be played on any card.
+6. The round ends when a player places the last card in his/her hand in the Discard Pile.
+7. If the Draw Deck is gone and a player cannot play, the player will lose the turn. If every player cannot play, the round is over and each player gets the value of their un-played cards.
+8. The player chooses the card to play by indicating a number. The first card in the list is card number 1.
+9. Failure to choose one of the cards in the Can Play list will result in the player losing the turn.
+
+
+Scoring:
+1. Players get the value of cards left in their hand at the end of a round.
+  A -- 1 (In this program, A is indicated as 1)
+  2-10 (except 8) -- Face value
+  K/Q/J -- 10
+  8 -- 50
+2.
