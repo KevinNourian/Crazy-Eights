@@ -1,5 +1,5 @@
 # Crazy Eights
-This program mimics the two-player card game, Crazy Eights. The objective is to be the first player to get rid of all cards in your hand. Multiple rounds are played and scores are kept. The player with the lowest total score when another player gets a total score of 100 points or more is the winner. A text file can be referred to if the players are not familiar with the rules.
+This program mimics the two-player card game, Crazy Eights. The objective is to be the first player to get rid of all cards in your hand. Multiple rounds are played and scores are kept. After playing multiple rounds, the player with the lowest total score when another player gets a total score of 100 points or more is the winner. 
 
 When the game starts, the program asks for the players' names. After they enter their names, the game will refer to them by name only.
 
