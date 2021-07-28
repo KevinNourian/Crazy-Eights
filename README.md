@@ -12,5 +12,5 @@ This program mimics the two-player card game, Crazy Eights.
 Run `Crazyeights.py`
 
 ## Notes
-* When the game starts, the program asks for the players' names. After they enter their names, the game will refer to them by name only.
+* When the game starts, the program asks for the players' names. After the users enter their names, the game will refer to them by name only.
 * At any point during the game, the player can type "--help" and be taken to a screen where they can read the rules of the game and instructions for how to play. They will resume the game when they close the window.
